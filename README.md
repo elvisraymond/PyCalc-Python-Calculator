@@ -3,7 +3,7 @@
 
 PyCalc is a GUI calculator application with all the basic functionalities of a calculator written completely in Python3 using the tkinter framework.
 
-It can run on any system running Python 3 or above and having tkinter library.
+It can run on any system running Python three or above and having tkinter library.
 
 ## Requirements
 For the program to run, it needs the following **dependencies** to be installed in python:
